@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+        "module": "NodeNext",
+        "target": "es2017",
+        "lib": [
+            "es2020"
+        ],
+        "types": [
+            "node",
+        ],
+        "checkJs": true,
+        "emitDeclarationOnly": true,
+        "declaration": true
+    },
+    "include": [
+        "*.d.ts"
+    ]
+}

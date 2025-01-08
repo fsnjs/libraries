@@ -1,0 +1,18 @@
+{
+    "name": "fsnjs",
+    "version": "1.0.0",
+    "type": "module",
+    "author": "Alexander Porrello",
+    "license": "MIT",
+    "workspaces": [
+        "libs/test"
+    ],
+    "devDependencies": {
+        "@types/node": "^22.7.4",
+        "prettier": "^3.3.3"
+    },
+    "dependencies": {
+        "glob": "^11.0.0",
+        "yargs": "^17.7.2"
+    }
+}

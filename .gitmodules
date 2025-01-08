@@ -1,0 +1,18 @@
+[submodule "libs/node"]
+	path = libs/node
+	url = https://github.com/fsnjs/node.git
+[submodule "libs/tsnode"]
+	path = libs/tsnode
+	url = https://github.com/fsnjs/tsnode.git
+[submodule "libs/mdpp"]
+	path = libs/mdpp
+	url = https://github.com/fsnjs/mdpp.git
+[submodule "libs/tokenize"]
+	path = libs/tokenize
+	url = https://github.com/fsnjs/tokenize.git
+[submodule "libs/test"]
+	path = libs/test
+	url = https://github.com/fsnjs/test.git
+[submodule "libs/truthy"]
+	path = libs/truthy
+	url = https://github.com/fsnjs/truthy.git
